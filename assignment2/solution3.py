@@ -1,4 +1,4 @@
-https://github.com/PythonWhizKid/assignments/blob/main/assignment1/solution4.py
+#https://github.com/PythonWhizKid/assignments/blob/main/assignment1/solution4.py
 
 #assignment 4
 # A palindrome is a word, phrase, number, or other sequence of characters that reads the same forwards and backward. For example, "madam" and "racecar" are palindromic strings. 

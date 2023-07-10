@@ -3,7 +3,7 @@
 def list_create(n):
     lst = []
     for i in range(0, n):
-        input_ = int(input("Enter numbers: ")) #integer data type is must or it will compare based on the alphabetical or numerical order 
+        input_ = int(input("Enter numbers: ")) #integer data type is must or it will compare based on the alphabetical order (Five comes before Ten alphabetically)
         lst.append(input_)
     return lst
 n = int(input("How many numbers do you want to include: "))

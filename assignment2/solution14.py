@@ -16,7 +16,7 @@ def common(lst1, lst2):
     for elem in lst1:
         if elem in lst2:
             common_elem.append(elem)
-    result = set(common_elem)    #removes repeatations of all elements (represent the list as set)
+    result = set(common_elem)    #removes repetations of all elements (represent the list as set)
     return result
 lst1, lst2 = list_gen()
 print(f"The common elements are {common(lst1, lst2)}")
